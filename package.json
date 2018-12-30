@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/itkilleddave/template-react-webpack-bable.git"
+    "url": "https://github.com/itkilleddave/react-redux-tutorial.git"
   },
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
